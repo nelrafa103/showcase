@@ -1,0 +1,22 @@
+# Proyecto con NestJS, Vue.js, Tailwind CSS y Laravel
+
+Este proyecto es una aplicación web que combina diferentes tecnologías para desarrollar un stack completo. Utiliza NestJS como framework de backend, Vue.js como framework de frontend, Tailwind CSS para estilos y Laravel para funcionalidades adicionales.
+
+## Requisitos previos
+
+Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
+
+- Node.js: https://nodejs.org
+- NPM: https://www.npmjs.com/get-npm
+- PHP: https://www.php.net
+- Composer: https://getcomposer.org
+- Laravel: https://laravel.com/docs
+
+## Configuración del proyecto
+
+Sigue estos pasos para configurar y ejecutar el proyecto:
+
+1. Clona el repositorio:
+
+ 
+   git clone https://github.com/nelrafa103/showcase.git
